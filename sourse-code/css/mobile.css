@@ -1,0 +1,9 @@
+@media only screen and (max-width:600px) {
+    header {
+        justify-content: center;
+    }
+    .img-logo {
+        padding: 0;
+        margin: 0;
+    }
+}
